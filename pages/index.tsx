@@ -32,7 +32,7 @@ export default function Home() {
   return (
 
   
-    <div className='bg-zinc-800 min-h-screen container flex flex-col items-center'>
+    <div className='bg-zinc-800 min-h-screen  m-auto flex flex-col items-center'>
       <div className="mt-20">
         <p className="text-violet-200 font-semibold  text-2xl font-display ">Calculadora da Canirinha</p>
 
